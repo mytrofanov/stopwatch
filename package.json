@@ -1,9 +1,9 @@
 {
   "name": "stopwatch",
-  "homepage": "https://github.com/mytrofanov/stopwatch",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
+  "homepage": "http://mytrofanov.github.io/my-stopwatch",
+   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@mui/material": "^5.0.4",
